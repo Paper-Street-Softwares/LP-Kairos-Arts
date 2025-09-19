@@ -18,8 +18,8 @@
   },
   "hero": {
     "miniTag": "kairós art’s gráfica",
-    "title": "A gráfica que vai  <span class=\"text-primary font-bold\">até você!</span>",
-    "subtitle": "Criação e impressão de materiais gráficos com qualidade e rapidez, agora em até 12x no cartão.",
+    "title": "A gráfica que vai até você! Agora em até 12x no cartão!",
+    "subtitle": "Criação e impressão de materiais gráficos com qualidade e rapidez.",
     "ctaButtonText": "Peça seu orçamento",
     "obsHero": {
       "text": "Parcelamos seus materiais em até 12x no cartão, facilitando suas compras!"
@@ -28,7 +28,7 @@
   "features": {
     "miniTag": "Design Gráfico",
     "title": "Soluções criativas em design para sua marca",
-    "subtitle": "Do logotipo às mídias digitais, criamos materiais que valorizam sua identidade visual.",
+    "subtitle": "Do logotipo às mídias digitais, criamos materiais que valorizam sua identidade visual, tudo em 12x no cartão.",
     "card1": {
       "title": "Criação de logotipos",
       "subtitle": "Identidade visual criativa para destacar sua marca.",
